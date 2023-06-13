@@ -86,16 +86,25 @@
 
 
 
-
 <img width="449" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/43e51710-afd0-4fe0-b9cd-8a003c8964e1">
-
 
 <img width="443" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/c8f8cdee-ebe6-4693-874c-365610b8142f">
 
-
 <img width="447" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/fa91db7f-9fd7-4869-b600-dbf26ca9dffa">
 
+<img width="445" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/2173f205-270a-4fc9-b779-e0c98e32e21d">
 
+<img width="448" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/3ed6e80a-2335-4be6-9805-883734ed4427">
+
+<img width="452" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/660d676e-e087-4366-8612-985465c3b029">
+
+<img width="447" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/7d6db916-f32d-46d9-852c-6c5e17c6d94e">
+
+<img width="448" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/69f9b0d4-d717-4975-8dcf-52dfc28fce84">
+
+<img width="552" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/927b7de2-30b6-466a-afad-48388707f7d8">
+
+<img width="536" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/d5af2f1f-6777-4d74-8f04-4926a5aefd95">
 
 
 
