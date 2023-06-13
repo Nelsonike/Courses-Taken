@@ -102,9 +102,24 @@
 
 <img width="448" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/69f9b0d4-d717-4975-8dcf-52dfc28fce84">
 
-<img width="552" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/927b7de2-30b6-466a-afad-48388707f7d8">
+<img width="445" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/4911910d-bea7-438a-bca8-24ec119de669">
 
-<img width="536" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/d5af2f1f-6777-4d74-8f04-4926a5aefd95">
+<img width="447" alt="image" src="https://github.com/Nelsonike/Courses-Taken/assets/118069766/6be623d3-05d9-4791-a14b-2c05b7970aae">
+
+
+
+. 
+
+
+
+# LinkedIn Profile:https://www.linkedin.com/in/nelson-ike-nworie/
+
+.
+
+![WhatsApp Image 2023-06-13 at 05 55 34](https://github.com/Nelsonike/Courses-Taken/assets/118069766/99511949-5ca8-48a4-937b-0796a91b1039)
+
+
+
 
 
 
